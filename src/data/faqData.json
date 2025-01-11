@@ -1,0 +1,38 @@
+{
+      "en": [
+        {
+          "question": "What is bolt.diy?",
+          "answer": "bolt.diy is a platform for DIY electronics projects, focusing on ease of use and accessibility for beginners."
+        },
+        {
+          "question": "How do I get started with my first project?",
+          "answer": "You can start by browsing our beginner-friendly projects section and following the step-by-step guides provided."
+        },
+        {
+          "question": "What kind of support does bolt.diy offer?",
+          "answer": "We offer comprehensive guides, video tutorials, and a community forum where you can ask questions and get help from experienced makers."
+        },
+        {
+          "question": "Are the projects on bolt.diy suitable for kids?",
+          "answer": "Yes, we have a range of projects that are designed to be safe and educational for kids, under adult supervision."
+        }
+      ],
+      "de": [
+        {
+          "question": "Was ist bolt.diy?",
+          "answer": "bolt.diy ist eine Plattform für DIY-Elektronikprojekte, die sich auf Benutzerfreundlichkeit und Zugänglichkeit für Anfänger konzentriert."
+        },
+        {
+          "question": "Wie fange ich mit meinem ersten Projekt an?",
+          "answer": "Sie können beginnen, indem Sie unseren anfängerfreundlichen Projektabschnitt durchsuchen und den Schritt-für-Schritt-Anleitungen folgen."
+        },
+        {
+          "question": "Welche Art von Unterstützung bietet bolt.diy an?",
+          "answer": "Wir bieten umfassende Anleitungen, Video-Tutorials und ein Community-Forum, in dem Sie Fragen stellen und Hilfe von erfahrenen Makern erhalten können."
+        },
+        {
+          "question": "Sind die Projekte auf bolt.diy für Kinder geeignet?",
+          "answer": "Ja, wir haben eine Reihe von Projekten, die unter Aufsicht von Erwachsenen sicher und lehrreich für Kinder sind."
+        }
+      ]
+    }

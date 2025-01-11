@@ -1,0 +1,53 @@
+.container {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+      position: relative;
+    }
+
+    .snippetsContainer {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    .snippet {
+      background-color: #333;
+      border-radius: 8px;
+      padding: 1rem;
+    }
+
+    .snippetTitle {
+      color: #eee;
+      font-weight: 600;
+      margin-bottom: 1rem;
+    }
+
+    .codeContainer {
+      position: relative;
+    }
+
+    .code {
+      color: #eee;
+      font-family: 'Courier New', Courier, monospace;
+      white-space: pre-wrap;
+    }
+
+    .copyButton {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      background-color: #e91e63;
+      color: #eee;
+      border: none;
+      border-radius: 4px;
+      padding: 0.5rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .checkIcon {
+      color: #4caf50;
+    }

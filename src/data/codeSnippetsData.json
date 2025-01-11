@@ -1,0 +1,26 @@
+{
+      "en": [
+        {
+          "id": "snippet-1",
+          "title": "Simple LED Blink",
+          "code": "void setup() {\n  pinMode(LED_BUILTIN, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(LED_BUILTIN, HIGH);\n  delay(1000);\n  digitalWrite(LED_BUILTIN, LOW);\n  delay(1000);\n}"
+        },
+        {
+          "id": "snippet-2",
+          "title": "Read Analog Sensor",
+          "code": "void setup() {\n  Serial.begin(9600);\n}\n\nvoid loop() {\n  int sensorValue = analogRead(A0);\n  Serial.println(sensorValue);\n  delay(100);\n}"
+        }
+      ],
+      "de": [
+        {
+          "id": "snippet-1",
+          "title": "Einfaches LED Blinken",
+          "code": "void setup() {\n  pinMode(LED_BUILTIN, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(LED_BUILTIN, HIGH);\n  delay(1000);\n  digitalWrite(LED_BUILTIN, LOW);\n  delay(1000);\n}"
+        },
+        {
+          "id": "snippet-2",
+          "title": "Analogen Sensor auslesen",
+          "code": "void setup() {\n  Serial.begin(9600);\n}\n\nvoid loop() {\n  int sensorValue = analogRead(A0);\n  Serial.println(sensorValue);\n  delay(100);\n}"
+        }
+      ]
+    }

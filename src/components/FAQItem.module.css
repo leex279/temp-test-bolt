@@ -1,0 +1,32 @@
+.faqItem {
+      border-radius: 8px;
+      padding: 1rem;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      margin-bottom: 1rem;
+    }
+
+    .questionContainer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .question {
+      color: #eee;
+      font-weight: 600;
+    }
+
+    .icon {
+      color: #eee;
+      transition: transform 0.3s;
+    }
+
+    .answerContainer {
+      overflow: hidden;
+    }
+
+    .answer {
+      color: #eee;
+      margin-top: 1rem;
+    }
